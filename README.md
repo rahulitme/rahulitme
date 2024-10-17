@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web development Project**
+- 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Javascript,Bootstrap, CSS, Django, JAVA, J2EE**
+- 🌱 I’m currently learning **Javascript,Bootstrap, CSS, , JAVA, Flutter Dart J2EE**
 
 - 💬 Ask me about **Web Development, Androied Developmente**
 
