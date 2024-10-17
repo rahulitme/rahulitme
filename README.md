@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Javascript,Bootstrap, CSS, , JAVA, Flutter Dart J2EE**
+- 🌱 I’m currently learning **Javascript,Bootstrap, CSS, , JAVA, Flutter (Dart) React ,Next js**
 
-- 💬 Ask me about **Web Development, Androied Developmente**
+- 💬 Ask me about **Web Development, Android Development**
 
 - 📫 How to reach me **rahulmandal705071@gmail.com**
 
