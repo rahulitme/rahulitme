@@ -28,10 +28,10 @@
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" /><br>
         <strong>Next.js</strong>
       </td>
-      <td align="center" width="140">
+<!--       <td align="center" width="140">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /><br>
         <strong>Node.js</strong>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
