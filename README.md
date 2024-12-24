@@ -71,9 +71,7 @@
     <img src="https://img.shields.io/badge/Email-Digital%20Messenger-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
-💭 Code Whispers
 
-"In the universe of technology, I'm not just writing code – I'm crafting digital symphonies." 🌌
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Cosmic Footer" />
