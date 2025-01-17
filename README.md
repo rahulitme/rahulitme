@@ -16,7 +16,7 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="150">
         <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" /><br>
         <strong>React</strong>
       </td>
