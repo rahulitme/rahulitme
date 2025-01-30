@@ -24,10 +24,10 @@
         <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" /><br>
         <strong>Flutter</strong>
       </td>
-      <td align="center" width="140">
+<!--       <td align="center" width="140">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" /><br>
         <strong>Next.js</strong>
-      </td>
+      </td> -->
 <!--       <td align="center" width="140">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /><br>
         <strong>Node.js</strong>
@@ -37,7 +37,7 @@
 </div>
 🌠 Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,dart,react,flutter,nextjs,nodejs,express,mongodb,mysql,docker,aws,git&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,dart,react,flutter,mysql,docker,aws,git&perline=9" alt="Tech Stack" />
 </div>
 📊 Cosmic Code Metrics
 <div align="center">
