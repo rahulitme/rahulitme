@@ -36,8 +36,7 @@ I'm a **Full-Stack Engineering Specialist** crafting exceptional digital experie
         <p>Cross-Platform Architecture</p>
       </td>
       <td align="center" width="20%">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" /><br>
-        <b>Node.js</b>
+
         <p>Scalable API Development</p>
       </td>
       <td align="center" width="20%">
@@ -59,18 +58,14 @@ I'm a **Full-Stack Engineering Specialist** crafting exceptional digital experie
 <div align="center">
   <h4>Frontend Galaxy</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,materialui" alt="Frontend Technologies" />
-  
-  <h4>Backend Constellation</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,php,graphql,apollo" alt="Backend Technologies" />
+
   
   <h4>Mobile Universe</h4>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react" alt="Mobile Technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Technologies" />
   
   <h4>Database Dimension</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" alt="Database Technologies" />
-  
-  <h4>DevOps Nebula</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,vercel,netlify" alt="DevOps Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,,firebase,supabase" alt="Database Technologies" />
+
 </div>
 
 ## 📊 Cosmic Code Metrics
