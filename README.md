@@ -57,11 +57,7 @@ I'm a **Full-Stack Engineering Specialist** crafting exceptional digital experie
 
 ---
 
-## 🚀 Current Tech Missions
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=🧠+Integrating+AI/ML+into+Web+Applications;📱+Flutter+Advanced+Architecture;☁️+Serverless+Microservices;🔒+Blockchain+%26+Smart+Contracts;🌐+Web3+and+Decentralized+Apps" alt="Focus Areas" />
-</div>
 
 ---
 
