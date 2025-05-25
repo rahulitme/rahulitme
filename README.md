@@ -3,16 +3,15 @@
 💫 About Me
 I'm Rahul Kumar, a Full-Stack Developer and Mobile App Magician who turns bold ideas into blazing-fast digital products. Whether it's pixel-perfect UIs or robust backend services, I'm on a mission to code the future.
 
-ts
 Copy
 Edit
 const rahul = {
   title: "Full-Stack Engineer 🚀",
-  experience: "3+ years in Web & Mobile",
+
   languages: ["JavaScript", "Dart", "Python", "Java"],
   frameworks: ["React", "Next.js", "Flutter", "Node.js"],
   database: ["Firebase", "MongoDB", "MySQL"],
-  tools: ["Docker", "Kubernetes", "Git", "Vercel", "Netlify"],
+  tools: [ "Git", "Vercel", "Netlify"],
   funFact: "Still learning, still building, still curious."
 };
 🧠 Tech Stack
