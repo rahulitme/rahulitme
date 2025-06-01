@@ -34,3 +34,14 @@ const rahul = {
   tools: ["Git", "Vercel", "Netlify"],
   funFact: "Still learning, still building, still curious."
 };
+🧠 Tech Stack
+🚀 Languages & Frameworks
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,flutter,dart,nodejs,express,python,django,java" /> </div>
+☁️ Databases, DevOps & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,git,github" /> </div>
+🔥 GitHub Stats
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulitme&theme=radical" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=rahulitme&show_icons=true&theme=radical&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulitme&theme=radical" width="48%" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulitme&layout=compact&theme=radical" /> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rahulitme&theme=dracula&no-frame=true&margin-w=10&column=6" /> </div>
+💼 Highlight Projects
+<div align="center"> <a href="https://github.com/rahulitme/e-commerce-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulitme&repo=e-commerce-app&theme=radical" /> </a> <a href="https://github.com/rahulitme/weather-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulitme&repo=weather-app&theme=radical" /> </a> </div>
