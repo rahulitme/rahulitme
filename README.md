@@ -23,8 +23,6 @@ const rahul = {
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulitme&theme=radical" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=rahulitme&show_icons=true&theme=radical&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulitme&theme=radical" width="48%" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulitme&layout=compact&theme=radical" /> </div>
 🏆 GitHub Achievements
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rahulitme&theme=dracula&no-frame=true&margin-w=10&column=6" /> </div>
-💼 Highlight Projects
-<div align="center"> <a href="https://github.com/rahulitme/e-commerce-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulitme&repo=e-commerce-app&theme=radical" /> </a> <a href="https://github.com/rahulitme/weather-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulitme&repo=weather-app&theme=radical" /> </a> </div>
 🌌 Contribution Universe
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulitme&bg_color=0d1117&color=00FFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" /> </div>
 🎯 Fun Side of Me
