@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=🚀+Rahul+Kumar+%7C+Digital+Universe+Creator;💡+Innovating+the+Future+of+Web+%26+Mobile;⚙️+Full-Stack+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=🚀+Rahul+Kumar+%7C+Digital+Universe+Creator;💡+Innovating+the+Future+of+Web+%26+Mobile;⚙️+Full-Stack+Developer" alt="Typing SVG" />
 
 <br/>
 
 <!-- Avatar / Profile Snake -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:a855f7,100:f472b6&height=180&section=header&text=Rahul%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20App%20Architect%20%7C%20Digital%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:a855f7,100:f472b6&height=180&section=header&text=Rahul%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20 Developer %20%7C%20App%20Architect%20%7C%20Digital%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
