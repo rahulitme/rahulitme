@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=🚀+Rahul+Kumar+%7C+Digital+Universe+Creator;💡+Innovating+the+Future+of+Web+%26+Mobile;⚙️+Full-Stack+Engineer+%26+App+Architect;🎯+Turning+Ideas+Into+Impactful+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=600&color=00E5FF&center=true&vCenter=true&width=820&lines=🚀+Rahul+Kumar+%7C+Digital+Universe+Creator;💡+Innovating+the+Future+of+Web+%26+Mobile;⚙️+Full-Stack+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -33,9 +33,9 @@
 ```typescript
 const rahul = {
   title:     "Full-Stack Engineer 🚀",
-  location:  "India 🇮🇳",
+  location:  "India  Bengalore"
   languages: ["JavaScript", "TypeScript", "Dart", "Python", "Java"],
-  frameworks:["React", "Next.js", "Flutter", "Node.js", "Express", "Django"],
+  frameworks:["React", "Next.js", "Flutter", "Node.js", "Express", ],
   databases: ["Firebase", "MongoDB", "MySQL"],
   tools:     ["Git", "GitHub", "Vercel", "Netlify"],
   currently: "Building blazing-fast web & mobile products",
