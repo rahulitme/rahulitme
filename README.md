@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/github/followers/rahulitme?label=GitHub+Followers&logo=github&style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/rahulitme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-191473256/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rahulkumar-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-a855f7?style=for-the-badge&logo=firefox-browser&logoColor=white)]([https://rahulkr.vercel.app/])
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-f87171?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmandal705071@gmail.com)
 
 <br/>
