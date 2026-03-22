@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Avatar / Profile Snake -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:a855f7,100:f472b6&height=180&section=header&text=Rahul%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20%20%20%7C%20Digital%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:a855f7,100:f472b6&height=180&section=header&text=Rahul%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20%20%20%7C%20%20&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
